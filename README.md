@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Messya Carment!
 
-🌟 Passionate Developer with a focus on back-end development, data analysis, data science, and database management.  
-🎓 Computer Science student at BINUS University with a love for data exploration and creating efficient systems.  
-💻 Experienced in both back-end and front-end development, with a strong emphasis on building scalable, data-driven solutions.
+🌟 Passionate Developer with a strong focus on back-end development, data analysis, data science, and database management.
+🎓 Computer Science student at BINUS University, dedicated to mastering the latest technologies in data processing and web application development.
+💻 Experienced in both back-end and front-end development, with a keen interest in creating scalable, data-driven solutions and exploring data insights.
 
 🔗: https://messyacarment05.github.io/messya-portofolio/ 
 
@@ -41,9 +41,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MessyaCarment05&theme=radical)](https://git.io/streak-stats)
 
-### 📊 Top Contributed Repositories
 
-![Top Contributed Repositories](https://github-readme-stats.vercel.app/api/top-langs/?username=MessyaCarment05&layout=compact&theme=radical)
 
 
 
