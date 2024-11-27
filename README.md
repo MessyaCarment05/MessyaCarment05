@@ -1,8 +1,8 @@
-## 👋 Hi, I'm Messya Carment!
+# 👋 Hi, I'm Messya Carment!
 
-# 🌟 Passionate Developer with a focus on back-end development, data analysis, data science, and database management.
-# 🎓 Computer Science student at BINUS University with a love for data exploration and creating efficient systems.
-# 💻 Experienced in both back-end and front-end development, with a strong emphasis on building scalable, data-driven solutions.
+🌟 Passionate Developer with a focus on back-end development, data analysis, data science, and database management.
+🎓 Computer Science student at BINUS University with a love for data exploration and creating efficient systems.
+💻 Experienced in both back-end and front-end development, with a strong emphasis on building scalable, data-driven solutions.
 
 🔗: https://messyacarment05.github.io/messya-portofolio/ 
 
