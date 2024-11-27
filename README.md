@@ -29,9 +29,16 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## 📊 GitHub Stats
 
-### 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MessyaCarment05&show_icons=true&theme=radical)
 
-![Messya Carment GitHub Stats](https://github-readme-stats.vercel.app/api?username=MessyaCarment05&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+### 🧑‍💻 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MessyaCarment05&layout=compact&theme=radical)
+
+### 🔥 GitHub Streak
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MessyaCarment05&theme=radical)](https://git.io/streak-stats)
 
 
