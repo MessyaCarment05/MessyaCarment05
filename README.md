@@ -32,6 +32,6 @@
 
 ### 📊 GitHub Stats
 
-![Messya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MessyaCarment05&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
+![Messya Carment GitHub Stats](https://github-readme-stats.vercel.app/api?username=MessyaCarment05&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
 
 
